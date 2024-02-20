@@ -48,4 +48,4 @@ print(f"Your final score is {final_score:.2f}%.")
 if final_score >= 70:
     print("Congratulations! You passed the quiz.")
 else:
-    print("Sorry, you did not pass the quiz. Better luck next time!")
+    print("Sorry")
